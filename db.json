@@ -144,6 +144,12 @@
       "email": "tony@user.com",
       "password": "abc123",
       "id": 4
+    },
+    {
+      "name": "TestDemo",
+      "email": "testdemo@gmail.com",
+      "password": "test",
+      "id": 5
     }
   ],
   "cart": [
