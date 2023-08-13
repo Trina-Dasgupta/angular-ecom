@@ -150,6 +150,18 @@
       "email": "testdemo@gmail.com",
       "password": "test",
       "id": 5
+    },
+    {
+      "name": "Trina",
+      "email": "trina@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "test",
+      "email": "test@test.com",
+      "password": "test",
+      "id": 7
     }
   ],
   "cart": [
@@ -176,6 +188,150 @@
       "productId": 5,
       "userId": 3,
       "id": 8
+    },
+    {
+      "name": "IPhone 14",
+      "price": "552",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 2,
+      "productId": 1,
+      "userId": 2,
+      "id": 9
+    },
+    {
+      "name": "IPhone 14",
+      "price": "552",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 2,
+      "productId": 1,
+      "userId": 2,
+      "id": 10
+    },
+    {
+      "name": "IPhone 14",
+      "price": "552",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 7,
+      "productId": 1,
+      "userId": 2,
+      "id": 11
+    },
+    {
+      "name": "IPhone 14",
+      "price": "552",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 3,
+      "productId": 1,
+      "userId": 2,
+      "id": 12
+    },
+    {
+      "name": "IPhone 14",
+      "price": "552",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 8,
+      "productId": 1,
+      "userId": 2,
+      "id": 13
+    },
+    {
+      "name": "IPhone 14",
+      "price": "552",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 2,
+      "productId": 1,
+      "userId": 2,
+      "id": 14
+    },
+    {
+      "name": "IPhone 14",
+      "price": "552",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 3,
+      "productId": 1,
+      "userId": 2,
+      "id": 15
+    },
+    {
+      "name": "IPhone 14",
+      "price": "552",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 4,
+      "productId": 1,
+      "userId": 2,
+      "id": 16
+    },
+    {
+      "name": "IPhone 14",
+      "price": "552",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 6,
+      "productId": 1,
+      "userId": 2,
+      "id": 17
+    },
+    {
+      "name": "IPhone 14",
+      "price": "552",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 5,
+      "productId": 1,
+      "userId": 2,
+      "id": 18
+    },
+    {
+      "name": "IPhone 14",
+      "price": "552",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 2,
+      "id": 19
+    },
+    {
+      "name": "IPhone 14",
+      "price": "552",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 2,
+      "id": 20
     }
   ],
   "orders": [
