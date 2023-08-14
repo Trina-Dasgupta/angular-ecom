@@ -28,6 +28,20 @@ export class ProductDetailsComponent implements OnInit{
         this.removeCart=false;
       }
     }
+    let user = localStorage.getItem('user');
+    if(user){
+      let userId= user && JSON.parse(user).id;
+      this.product.getCartList(userId);
+
+      this.product.cartData.subscribe((result)=>{
+        let item = result.filter((item:product)=>productId?.toString()===item.productId?.toString())
+     if(item.length){
+      this.cartData=item[0];
+      this.removeCart=true;
+     }
+      })
+    }
+    
   })
  }
  handleQuantity(val:string){
@@ -63,7 +77,17 @@ export class ProductDetailsComponent implements OnInit{
   } 
 }
  removeToCart(productId:number){
+  if(!localStorage.getItem('user')){
   this.product.removeItemFromCart(productId);
+  
+  }else{
+    this.cartData && this.product.removeToCart(this.cartData.id).subscribe((result)=>{
+      let user = localStorage.getItem('user');
+        let userId= user && JSON.parse(user).id;
+        this.product.getCartList(userId)
+    })
+  }
   this.removeCart=false;
+
  }
 }
