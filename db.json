@@ -150,32 +150,80 @@
       "email": "testdemo@gmail.com",
       "password": "test",
       "id": 5
+    },
+    {
+      "name": "Trina",
+      "email": "trina@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "test",
+      "email": "test@test.com",
+      "password": "test",
+      "id": 7
     }
   ],
   "cart": [
     {
-      "name": "Samsung m 40 a ",
-      "price": "550",
+      "name": "IPhone 14",
+      "price": "552",
       "category": "mobile",
       "color": "white",
       "description": "this is a Samsung product",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
-      "quantity": 1,
+      "quantity": 2,
       "productId": 1,
-      "userId": 3,
-      "id": 7
+      "userId": 2,
+      "id": 9
     },
     {
-      "name": "Levies Jeans",
-      "price": "5000",
-      "category": "Jeans",
-      "color": "blue",
-      "description": "Confirmable jeans for man ",
-      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "name": "IPhone 14",
+      "price": "552",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 2,
+      "productId": 1,
+      "userId": 2,
+      "id": 10
+    },
+    {
+      "name": "IPhone 14",
+      "price": "552",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 7,
+      "productId": 1,
+      "userId": 2,
+      "id": 11
+    },
+    {
+      "name": "IPhone 14",
+      "price": "552",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 3,
+      "productId": 1,
+      "userId": 2,
+      "id": 12
+    },
+    {
+      "name": "HP Laptop",
+      "price": "50000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
       "quantity": 1,
-      "productId": 5,
-      "userId": 3,
-      "id": 8
+      "productId": 3,
+      "userId": 2,
+      "id": 33
     }
   ],
   "orders": [
@@ -194,6 +242,22 @@
       "totalPrice": 6100,
       "userId": 1,
       "id": 3
+    },
+    {
+      "email": "test@test.com",
+      "address": "Kkkkk",
+      "contact": "123456780",
+      "totalPrice": 81964,
+      "userId": 3,
+      "id": 4
+    },
+    {
+      "email": "test@gmail.com",
+      "address": "test",
+      "contact": "1234567890",
+      "totalPrice": 652,
+      "userId": 3,
+      "id": 5
     }
   ]
 }
